@@ -8,7 +8,7 @@
     "start": "npm run webpack",
     "tst": "./node_modules/.bin/mocha",
     "process": "npm run webpack && npm run tst",
-    "watch": "onchange \"src/**/*.js\" \"test/**/*.js\" -- npm run process",
+    "watch": "onchange \"index.js\" \"src/**/*.js\" \"test/**/*.js\" -- npm run process",
     "watch:process": "npm run process && npm run watch"
   },
   "repository": {
