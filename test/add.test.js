@@ -16,4 +16,10 @@ describe('add', function () {
         let inc = R.add(1);
         expect(inc(9)).to.equal(10);
     });
+
+    it('works with placeholder values', function () {
+        expect(R.add(R.__, 2)(3)).to.equal(5);
+        // Really long and complicated currying with multiple placeholders
+        expect(R.add()()()(R.__, R.__)(5, R.__)(R.__)(5)).to.equal(10);
+    });
 });
