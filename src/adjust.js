@@ -19,4 +19,4 @@ const adjust = (fn, index, list) => {
     return _list;
 };
 
-export default adjust;
+export default _curry3(adjust);
