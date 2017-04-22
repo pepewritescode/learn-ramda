@@ -8,3 +8,4 @@
 4. always
 5. and
 6. append
+7. clamp
