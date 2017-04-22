@@ -4,6 +4,7 @@ import adjust from './src/adjust';
 import always from './src/always';
 import and from './src/and';
 import append from './src/append';
+import clamp from './src/clamp';
 
 export {
     __,
@@ -11,5 +12,6 @@ export {
     adjust,
     always,
     and,
-    append
+    append,
+    clamp
 };
