@@ -5,6 +5,7 @@ import always from './src/always';
 import and from './src/and';
 import append from './src/append';
 import clamp from './src/clamp';
+import dec from './src/dec';
 
 export {
     __,
@@ -13,5 +14,6 @@ export {
     always,
     and,
     append,
-    clamp
+    clamp,
+    dec
 };
