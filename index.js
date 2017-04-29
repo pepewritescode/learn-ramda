@@ -6,6 +6,7 @@ import and from './src/and';
 import append from './src/append';
 import clamp from './src/clamp';
 import dec from './src/dec';
+import defaultTo from './src/defaultTo';
 
 export {
     __,
@@ -15,5 +16,6 @@ export {
     and,
     append,
     clamp,
-    dec
+    dec,
+    defaultTo
 };
