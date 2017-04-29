@@ -9,3 +9,8 @@
 5. and
 6. append
 7. clamp
+8. dec
+9. defaultTo
+10. divide
+11. F
+12. T
