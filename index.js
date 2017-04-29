@@ -7,6 +7,7 @@ import append from './src/append';
 import clamp from './src/clamp';
 import dec from './src/dec';
 import defaultTo from './src/defaultTo';
+import divide from './src/divide';
 
 export {
     __,
@@ -17,5 +18,6 @@ export {
     append,
     clamp,
     dec,
-    defaultTo
+    defaultTo,
+    divide
 };
