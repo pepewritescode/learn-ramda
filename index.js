@@ -8,6 +8,8 @@ import clamp from './src/clamp';
 import dec from './src/dec';
 import defaultTo from './src/defaultTo';
 import divide from './src/divide';
+import F from './src/F';
+import T from './src/T';
 
 export {
     __,
@@ -19,5 +21,7 @@ export {
     clamp,
     dec,
     defaultTo,
-    divide
+    divide,
+    F,
+    T
 };
