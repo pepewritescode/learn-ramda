@@ -14,6 +14,7 @@ import gt from './src/gt';
 import lt from './src/lt';
 import gte from './src/gte';
 import lte from './src/lte';
+import identity from './src/identity';
 
 export {
     __,
@@ -31,5 +32,6 @@ export {
     gt,
     lt,
     gte,
-    lte
+    lte,
+    identity
 };
