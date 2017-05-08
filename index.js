@@ -12,6 +12,8 @@ import F from './src/F';
 import T from './src/T';
 import gt from './src/gt';
 import lt from './src/lt';
+import gte from './src/gte';
+import lte from './src/lte';
 
 export {
     __,
@@ -27,5 +29,7 @@ export {
     F,
     T,
     gt,
-    lt
+    lt,
+    gte,
+    lte
 };
