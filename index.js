@@ -11,6 +11,7 @@ import divide from './src/divide';
 import F from './src/F';
 import T from './src/T';
 import gt from './src/gt';
+import lt from './src/lt';
 
 export {
     __,
@@ -25,5 +26,6 @@ export {
     divide,
     F,
     T,
-    gt
+    gt,
+    lt
 };
