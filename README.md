@@ -19,3 +19,4 @@
 15. gte
 16. lte
 17. identity
+18. inc
