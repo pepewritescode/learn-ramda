@@ -10,6 +10,7 @@ import defaultTo from './src/defaultTo';
 import divide from './src/divide';
 import F from './src/F';
 import T from './src/T';
+import gt from './src/gt';
 
 export {
     __,
@@ -23,5 +24,6 @@ export {
     defaultTo,
     divide,
     F,
-    T
+    T,
+    gt
 };
