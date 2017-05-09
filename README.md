@@ -23,3 +23,4 @@
 19. isNil
 20. length
 21. max
+22. min
