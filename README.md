@@ -22,3 +22,4 @@
 18. inc
 19. isNil
 20. length
+21. max

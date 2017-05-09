@@ -18,6 +18,7 @@ import identity from './src/identity';
 import inc from './src/inc';
 import isNil from './src/isNil';
 import length from './src/length';
+import max from './src/max';
 
 export {
     __,
@@ -39,5 +40,6 @@ export {
     identity,
     inc,
     isNil,
-    length
+    length,
+    max
 };
