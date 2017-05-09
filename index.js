@@ -20,6 +20,7 @@ import isNil from './src/isNil';
 import length from './src/length';
 import max from './src/max';
 import min from './src/min';
+import multiply from './src/multiply';
 
 export {
     __,
@@ -43,5 +44,6 @@ export {
     isNil,
     length,
     max,
-    min
+    min,
+    multiply
 };
