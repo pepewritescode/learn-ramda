@@ -21,6 +21,7 @@ import length from './src/length';
 import max from './src/max';
 import min from './src/min';
 import multiply from './src/multiply';
+import negate from './src/negate';
 
 export {
     __,
@@ -45,5 +46,6 @@ export {
     length,
     max,
     min,
-    multiply
+    multiply,
+    negate
 };
