@@ -26,3 +26,4 @@
 22. min
 23. multiply
 24. negate
+25. or

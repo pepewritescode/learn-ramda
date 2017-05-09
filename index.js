@@ -22,6 +22,7 @@ import max from './src/max';
 import min from './src/min';
 import multiply from './src/multiply';
 import negate from './src/negate';
+import or from './src/or';
 
 export {
     __,
@@ -47,5 +48,6 @@ export {
     max,
     min,
     multiply,
-    negate
+    negate,
+    or
 };
