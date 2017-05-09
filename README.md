@@ -24,3 +24,5 @@
 20. length
 21. max
 22. min
+23. multiply
+24. negate
