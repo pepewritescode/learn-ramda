@@ -20,3 +20,5 @@
 16. lte
 17. identity
 18. inc
+19. isNil
+20. length

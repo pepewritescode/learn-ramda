@@ -16,6 +16,8 @@ import gte from './src/gte';
 import lte from './src/lte';
 import identity from './src/identity';
 import inc from './src/inc';
+import isNil from './src/isNil';
+import length from './src/length';
 
 export {
     __,
@@ -35,5 +37,7 @@ export {
     gte,
     lte,
     identity,
-    inc
+    inc,
+    isNil,
+    length
 };
