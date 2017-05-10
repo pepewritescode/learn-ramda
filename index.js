@@ -23,6 +23,7 @@ import min from './src/min';
 import multiply from './src/multiply';
 import negate from './src/negate';
 import or from './src/or';
+import range from './src/range';
 
 export {
     __,
@@ -49,5 +50,6 @@ export {
     min,
     multiply,
     negate,
-    or
+    or,
+    range
 };
