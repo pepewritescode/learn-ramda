@@ -27,3 +27,5 @@
 23. multiply
 24. negate
 25. or
+26. range
+27. subtract
