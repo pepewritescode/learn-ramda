@@ -24,6 +24,7 @@ import multiply from './src/multiply';
 import negate from './src/negate';
 import or from './src/or';
 import range from './src/range';
+import subtract from './src/subtract';
 
 export {
     __,
@@ -51,5 +52,6 @@ export {
     multiply,
     negate,
     or,
-    range
+    range,
+    subtract
 };
