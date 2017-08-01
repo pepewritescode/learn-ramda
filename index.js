@@ -26,6 +26,7 @@ import or from './src/or';
 import range from './src/range';
 import subtract from './src/subtract';
 import zip from './src/zip';
+import zipWith from './src/zipWith';
 
 export {
     __,
@@ -55,5 +56,6 @@ export {
     or,
     range,
     subtract,
-    zip
+    zip,
+    zipWith
 };
