@@ -25,6 +25,7 @@ import negate from './src/negate';
 import or from './src/or';
 import range from './src/range';
 import subtract from './src/subtract';
+import zip from './src/zip';
 
 export {
     __,
@@ -53,5 +54,6 @@ export {
     negate,
     or,
     range,
-    subtract
+    subtract,
+    zip
 };
