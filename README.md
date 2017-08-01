@@ -29,3 +29,6 @@
 25. or
 26. range
 27. subtract
+28. zip
+29. zipWith
+30. zipObj

@@ -27,6 +27,7 @@ import range from './src/range';
 import subtract from './src/subtract';
 import zip from './src/zip';
 import zipWith from './src/zipWith';
+import zipObj from './src/zipObj';
 
 export {
     __,
@@ -57,5 +58,6 @@ export {
     range,
     subtract,
     zip,
-    zipWith
+    zipWith,
+    zipObj
 };
