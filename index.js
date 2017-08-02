@@ -28,6 +28,7 @@ import subtract from './src/subtract';
 import zip from './src/zip';
 import zipWith from './src/zipWith';
 import zipObj from './src/zipObj';
+import prop from './src/prop';
 
 export {
     __,
@@ -59,5 +60,6 @@ export {
     subtract,
     zip,
     zipWith,
-    zipObj
+    zipObj,
+    prop
 };
